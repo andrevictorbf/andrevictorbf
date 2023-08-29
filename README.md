@@ -1,0 +1,5 @@
+- 👋 Olá! Sou André Victor!
+- 👀 Interessado em desenvolvimento backend, Análise de dados e segurança da informação!
+- 🌱 Aprendendo C/C++, PHP e Python
+- 💞️ I’m looking to collaborate on ...
+- 📫Linkedin: www.linkedin.com/in/andre-victor-018094208
